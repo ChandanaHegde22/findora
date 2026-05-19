@@ -9,7 +9,7 @@ LOST-FOUND/
 │   ├── database.py             # SQLAlchemy connection setup
 │   ├── models.py               # Database tables
 │   ├── schemas.py              # Pydantic validation schemas
-│   ├── matcher.py              # Your lost & found matching logic
+│   ├── matcher.py              # lost & found matching logic
 │   ├── jwt_auth.py             # Token generation & security
 │   ├── notifications_service.py # Logic for sending alerts
 │   ├── requirements.txt        # Python dependencies
